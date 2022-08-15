@@ -211,12 +211,3 @@ predictionRound = predictions[predictionCool];
 
 
 }
-
-/*
-var emailButton = $('#email');
-emailButton.on("click", getEmailAndLogToConsole);
-
-function getEmailAndLogToConsole() {
-  var email = $('.email').val();
-  console.log(email);
-  */
