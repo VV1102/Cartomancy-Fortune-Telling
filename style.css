@@ -1,6 +1,7 @@
 body {
   height: 100%;
   width: 100%;
+  font-family: 'Acme', sans-serif;
   background-image: url("https://i.pinimg.com/originals/48/9b/5a/489b5a6c3e8ee0091ece69bda0fe61ae.jpg");
 }
 
@@ -17,11 +18,14 @@ input{
   margin-left:16cm;
 }
 
+h1{
+  font-family: 'Lily Script One', cursive;
+  font-size:80px;
+}
 
 #oncandle{
    margin-left:15cm;
 }
-
 
 
 #description{
