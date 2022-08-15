@@ -1,0 +1,45 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://i.pinimg.com/originals/48/9b/5a/489b5a6c3e8ee0091ece69bda0fe61ae.jpg");
+}
+
+.headerz{
+  text-align:center;
+  color:white;
+}
+
+input{
+  margin-left:15.75cm;
+}
+
+#three{
+  margin-left:16cm;
+}
+
+
+#oncandle{
+   margin-left:15cm;
+}
+
+
+
+#description{
+  font-size:20px;
+}
+
+#reading{
+   font-size:20px;
+}
+
+button{
+  border:6px dotted gold;
+  background-color:#3d0454;
+  color:white;
+}
+
+#candle{
+  margin-left:14cm;
+  height:300px;
+  width:300px;
+}
